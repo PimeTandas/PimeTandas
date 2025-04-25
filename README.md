@@ -5,17 +5,17 @@
 </div>
 
 ## 😄 About Me
-- Software Engineer at a little bank.
+- Apprentice Software Engineer at a little bank.
 - Intrested in Cryptography, Finance, Investing and Motor Sports.
 
 ## 🔭 Experience
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scala.svg'><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
 
-
+<!--
 ## 🌱 Learning
 
 ## ⚡ Achievements/ Certs
-
+-->
 ## ✨ My Links
 ![Static Badge](https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank&logoSize=auto&label=%20&labelColor=black&color=%2300EA64)
 ![Static Badge](https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoSize=auto&label=%20&labelColor=black&color=%23FFA116)
