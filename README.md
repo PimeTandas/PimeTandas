@@ -5,7 +5,7 @@
 </div>
 
 ## 😄 About Me
-- Apprentice Software Engineer at a little bank.
+-  Work at a little bank.
 - Intrested in Cryptography, Finance, Investing and Motor Sports.
 
 ## 🔭 Experience
